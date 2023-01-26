@@ -1,9 +1,9 @@
 # TSAI EMLOv2 Capstone Project
 
 ## Table of Contents
-1. [MLOps-Hyperparameter-Tuning](https://github.com/sushantproject/MLOps-Hyperparameter-Tuning)
+1. [MLOps-Hyperparameter-Tuning](https://github.com/sushantproject/MLOps-Hyperparameter-Tuning)**Will update later** Before deadline :smile:
 2. [Model-Evaluation-And-Explanation](https://github.com/sushantproject/Model-Evaluation-And-Explanation)
-3. [Sagemaker-Pipeline](https://github.com/sushantproject/Sagemaker-Pipeline)
+3. [Sagemaker-Pipeline](https://github.com/sushantproject/Sagemaker-Pipeline)**Will update later** Before deadline :smile:
 4. [CI-CD-Pipeline](https://github.com/sushantproject/CI-CD-Pipeline)
 5. [Label-Studio-Ml-Backend ](https://github.com/sushantproject/Label-Studio-Ml-Backend)
 6. [Project Frontend](https://github.com/sushantproject/EMLOv2-Project-Frontend)
