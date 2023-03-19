@@ -15,7 +15,7 @@
 **If you want to download this image, click [here](images/tsai_emlov2-project_file.drawio.png)**
 
 ### Video Demonstration
-* Entire Project Workflow: [Gdrive link](https://drive.google.com/file/d/1WgXm1qwrqGQpO4_H-PpOJL6WBsX4WhjP/view?usp=share_link)
-* Label Studio Backend: [Gdrive Link](https://drive.google.com/file/d/1F7l47-HPptjWa5H0E1oKo2iWEn0yKygf/view?usp=share_link)
-* Model Inference Detection: [Gdrive Link](https://drive.google.com/file/d/1Nxsgok8iIMe9uiuR2pLVxmmKrt-JsBnm/view?usp=share_link)
-* Sagemaker Project Overview: [Gdrive Link](https://drive.google.com/file/d/1XhCgBCeFZngyJ7t0YOMktdt_TtdmA-TK/view?usp=share_link)
+* Entire Project Workflow: [Video link](https://drive.google.com/file/d/1WgXm1qwrqGQpO4_H-PpOJL6WBsX4WhjP/view?usp=share_link)
+* Label Studio Backend: [Video Link](https://drive.google.com/file/d/1F7l47-HPptjWa5H0E1oKo2iWEn0yKygf/view?usp=share_link)
+* Model Inference Detection: [Video Link](https://drive.google.com/file/d/1Nxsgok8iIMe9uiuR2pLVxmmKrt-JsBnm/view?usp=share_link)
+* Sagemaker Project Overview: [Video Link](https://drive.google.com/file/d/1XhCgBCeFZngyJ7t0YOMktdt_TtdmA-TK/view?usp=share_link)
